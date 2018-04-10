@@ -1,0 +1,27 @@
+->\to
+<-\from
+>\more
+<\less
+:)\good
+:(\bad
+:|\mediocre
+:D\comical
+&&\and
+||\or
+&\and
+|\or
++\plus
+-\dash
+*\star
+/\slash
+?\check
+ \_
+~\tilda
+:\_
+^\power
+%\percent
+#\hashtag
+@\at
+!\not
+.\dot
+,\comma

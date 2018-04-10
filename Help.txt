@@ -1,0 +1,3 @@
+For help, execute the PT.jar file with command line argument of "help":
+
+java -jar PT.jar help
