@@ -164,6 +164,10 @@ Do not use \" to indicate a quotation mark. Instead, use \u0034.
 Do not create python strings like: ''' this is my string, it has another apostrophe inside -> ' this is bad '''
 Nor should you create python string like: """ this is my string and it has a " insdie. this is also bad """
 
+4. For "live" help, execute the PT.jar file with command line argument of "help":
+
+java -jar PT.jar help
+
 
 *FINAL THOUGHTS AND DOWNLOAD
 
@@ -175,7 +179,5 @@ Thank you,
 
 Peter
 
-For "live" help, execute the PT.jar file with command line argument of "help":
 
-java -jar PT.jar help
 
