@@ -15,7 +15,7 @@ or in C
 
 char* substring(char* str, int start, int stop){...}
 
-These are all fine method/function headers. However, if I make a call to substring("hello",2,3) it doesn't absolutely jump out at me that this is going to give me the substring of "hello" from index 2 to index 3. It COULD be the substring starting at index 2 with LENGTH of 3. Or it could be the substring of "hello" that is 2 characters long that begins at index 3... It could actually logically mean a LOT of different things! Now, I am fully aware that if one is able to read the documentation, all confusion will be cleared up. However, my ability to read doucmentation still doesn't help when I need to QUICKLY read through a large amount of ambiguous code. Procedures, however, WILL clear up ALL ambiguity.
+These are all fine method/function headers. However, if I make a call to substring("hello",2,3) it doesn't absolutely jump out at me that this is going to give me the substring of "hello" from index 2 to index 3. It COULD be the substring starting at index 2 with LENGTH of 3. Or it could be the substring of "hello" that is 2 characters long that begins at index 3... It could actually logically mean a LOT of different things! Now, I am fully aware that if one is able to read the documentation, all confusion will be cleared up. However, my ability to read doucmentation still doesn't help when I need to QUICKLY read through a large amount of ambiguous code. Procedures, however, will clear up ALL ambiguity.
 
 *PROCEDURE DECLARATIONS
 
