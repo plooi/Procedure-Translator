@@ -173,9 +173,9 @@ java -jar PT.jar help
 
 To download this, just grab all the files in this repository and copy them to your computer. 
 
-Have fun with procedures guys and girls! My goal for the Procedure Translator is that it will help make programming a process that is more organized, more clear, and less confusing than it is today. I believe that beginner programmers will have a MUCH easier and more fun time understanding "sentences with fill in the blanks" rather than with straight up functions. On the other hand, large software companies will also benefit from using procedures because when software projects grow large, the code becomes very confusing to work with. Using procedures will help so much in this situation because procedures will clear up a lot of the ambiguity in the code, and the programmers will thus be able to focus on solving the main task at hand, instead of having to focus on wading through confusing and ambiguous code someone else wrote.
+Have fun with procedures guys and girls! My goal for the Procedure Translator is that it will help make programming a process that is more organized, more clear, and less confusing than it is today. I believe that beginner programmers will have a MUCH easier and more fun time understanding "sentences with fill in the blanks" rather than with straight up functions. On the other hand, large software companies will also benefit from using procedures because when software projects grow large, the code becomes very confusing to work with. Using procedures will clear up a lot of the ambiguity in the code, and the programmers will thus be able to focus on solving the main task at hand, instead of having to focus on wading through confusing and ambiguous code that someone else wrote.
 
-The ultimate reason I created Procedure Translator was so that you and I can experience programming at a higher level. Have fun with it!
+My friends, the ultimate reason I created Procedure Translator was so that you and I can experience programming at a higher level. Have fun with it!
 
 Thank you,
 
